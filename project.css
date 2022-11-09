@@ -3,3 +3,22 @@
     height: 100px;
     padding: 40px;
 }
+.title {
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;  
+    background-color: blueviolet;                            
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.row.centered {
+    justify-content: center;
+}
+
+.row.space {
+    justify-content: space-between;
+}
