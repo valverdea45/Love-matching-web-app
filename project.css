@@ -22,3 +22,17 @@
 .row.space {
     justify-content: space-between;
 }
+
+.input-text {
+    padding: 120px;
+    text-align: center;
+}
+
+.lable-align {
+    display: inline-block;
+    text-align: center;
+}
+center-left {
+    float: left;
+    margin-right:20px
+}
