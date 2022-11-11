@@ -24,7 +24,7 @@
 }
 
 .input-text {
-    padding: 120px;
+    padding: 400px;
     text-align: center;
 }
 
@@ -32,7 +32,7 @@
     display: inline-block;
     text-align: center;
 }
-center-left {
+.center-left {
     float: left;
     margin-right:20px
 }
